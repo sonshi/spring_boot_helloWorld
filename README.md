@@ -1,3 +1,3 @@
-#spring_boot_helloWorld<br>
-##about program
+# spring_boot_helloWorld
+## about program
 + HelloWorldとWeb上に表示するだけ
